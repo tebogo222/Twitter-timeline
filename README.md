@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Tebogo Musi**
 - GitHub: [@tebogo222](https://github.com/tebogo222)
-- Twitter/X: [@Musi22](https://twitter.com/Musi22)
+
 
 ---
 
